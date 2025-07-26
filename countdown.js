@@ -1,14 +1,13 @@
 // Number of assignments/tiles
-const NUM_ASSIGNMENTS = 27;
+const NUM_ASSIGNMENTS = 25;
 
 const assignments = [
   { title: "COS1501 Quiz-1", due: new Date(2025, 4, 13, 23, 0, 0) },
   { title: "COS1501 Quiz-2", due: new Date(2025, 5, 13, 23, 0, 0) },
-  { title: "COS1501 Asign-1", due: new Date(2025, 6, 25, 23, 0, 0) },
+  { title: "COS1501 Asign-1", due: new Date(2025, 7, 28, 23, 0, 0) },
   { title: "MAT1512 Asign-1", due: new Date(2025, 5, 20, 23, 0, 0) },
   { title: "MAT1512 Asign-2", due: new Date(2025, 5, 30, 23, 0, 0) },
   { title: "MAT1512 Asign-3", due: new Date(2025, 6, 18, 23, 0, 0) },
-  { title: "MAT1512 Asign-4", due: new Date(2025, 6, 31, 23, 0, 0) },
   { title: "APM1513 Quiz-1", due: new Date(2025, 4, 6, 23, 0, 0) },
   { title: "APM1513 Asign-1", due: new Date(2025, 5, 6, 23, 0, 0) },
   { title: "APM1513 Asign-2", due: new Date(2025, 6, 4, 23, 0, 0) },
@@ -28,8 +27,6 @@ const assignments = [
   { title: "MAT1503 Quiz-1", due: new Date(2025, 5, 10, 23, 0, 0) },
   { title: "MAT1503 Asign-1", due: new Date(2025, 6, 15, 23, 0, 0) },
   { title: "MAT1503 Asign-2", due: new Date(2025, 6, 31, 23, 0, 0) },
-  { title: "MAT1503 Asign-3", due: new Date(2025, 7, 29, 23, 0, 0) },
-  { title: "MAT1503 Quiz-2", due: new Date(2025, 8, 30, 23, 0, 0) },
 
   // ... (keep the rest of your assignments here)
 ];
